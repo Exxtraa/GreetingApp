@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GreetingApp</string>
+    <string name="enter_your_text">Enter your text</string>
+</resources>
