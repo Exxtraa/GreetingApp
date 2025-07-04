@@ -1,1 +1,1 @@
-Full function app
+Fully Java coded Greeting app
